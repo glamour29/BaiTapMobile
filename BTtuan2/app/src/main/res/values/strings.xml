@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BTtuan2</string>
+    <string name="app_title">THỰC HÀNH 01</string>
+    <string name="label_ho_ten">Họ và Tên:</string>
+    <string name="label_tuoi">Tuổi:</string>
+    <string name="hint_ho_ten">Nhập họ tên</string>
+    <string name="hint_tuoi">Nhập tuổi</string>
+    <string name="btn_kiem_tra">Kiểm tra</string>
+    <string name="result" />
+</resources>
