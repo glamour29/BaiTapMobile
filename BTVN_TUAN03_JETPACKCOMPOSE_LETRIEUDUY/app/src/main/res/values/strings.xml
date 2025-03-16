@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BTVN_TUAN03_JETPACKCOMPOSE_LETRIEUDUY</string>
+    <string name="jetpack_compose_text">Jetpack Compose</string>
+    <string name="test_text">Jetpack Compose is a modern UI toolkit for building native Android applications using a declarative programming approach.</string>
+</resources>
