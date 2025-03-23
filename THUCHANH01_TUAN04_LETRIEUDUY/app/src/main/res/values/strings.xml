@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BTVN_TUAN03_JETPACKCOMPOSE_LETRIEUDUY</string>
+    <string name="jetpack_compose_text">Navigation</string>
+    <string name="test_text">is a framework that simplifies the implementation of navigation between different UI components (activities, fragments, or composables) in an app</string>
+</resources>
