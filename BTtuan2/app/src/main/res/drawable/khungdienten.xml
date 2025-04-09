@@ -1,0 +1,5 @@
+<!-- res/drawable/khungdienten.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Màu xám cho nền -->
+    <corners android:radius="16dp" /> <!-- Bo góc đồng nhất -->
+</shape>

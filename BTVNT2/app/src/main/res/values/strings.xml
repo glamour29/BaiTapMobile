@@ -1,0 +1,21 @@
+<resources>
+    <!-- Chuỗi cho màn hình chính -->
+    <string name="app_title">Hệ thống quản lý thư viện</string>
+    <string name="nhan_vien">Người dùng</string>
+    <string name="hint_nhap_ten">Nhập tên người dùng...</string>
+    <string name="btn_doi">Đổi</string>
+    <string name="danh_sach">Danh sách sách</string>
+    <string name="sach_1">Sách giáo khoa</string>
+    <string name="sach_2">Sách tham khảo</string>
+    <string name="btn_them">Thêm sách</string>
+    <string name="ql">Quản lý</string>
+    <string name="ds_sach">Danh sách</string>
+    <string name="ca_nhan">Cá nhân</string>
+    <string name="app_name">BTVNT2</string>
+
+    <!-- Chuỗi cho màn hình 2 -->
+    <string name="my_name">TRIỆU DUY</string>
+    <string name="my_home">CÀ MAU - VIỆT NAM</string>
+    <string name="btn_back">Quay Lại</string>
+    <string name="btn_note">Ghi Chú</string>
+</resources>
