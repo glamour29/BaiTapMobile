@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UI</string>
+    <string name="my_name">TRIỆU DUY</string>
+    <string name="my_home">CÀ MAU - VIỆT NAM</string>
+    <string name="btn_back">Quay Lại</string>
+    <string name="btn_note">Ghi Chú</string>
+</resources>
